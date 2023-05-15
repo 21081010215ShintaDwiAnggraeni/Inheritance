@@ -1,0 +1,2 @@
+# Inheritance
+Pertemuan 6
